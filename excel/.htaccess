@@ -1,0 +1,4 @@
+AuthName "Only Vertice Customers"
+AuthUserFile "/home/verticel/.htpasswds/public_html/excel/passwd"
+AuthType Basic
+require valid-user

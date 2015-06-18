@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Please introduce your login details"
+AuthUserFile "/home/verticel/.htpasswds/public_html/presentations/passwd"
+require valid-user
