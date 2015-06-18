@@ -150,7 +150,7 @@ include 'config.php';
 	settype($replyAddress, "string"); 
 	$toName="Vertice Services Ltd";
 	$subject = "Registro de Autonomo - Vertice Services";
-	$toAddress = "info@verticeltd.com";
+	$toAddress = "info@archived.wcre8tive.com/verticeservices";
 	$fromName = $Name;
 	$fromAddress = $Email;
 

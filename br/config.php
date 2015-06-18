@@ -1,7 +1,7 @@
 <?
 //mail to info@domain.com
 	//$to      = 'dev@wespadigital.com';   
-	$to      = 'info@verticeltd.com';   
+	$to      = 'info@archived.wcre8tive.com/verticeservices';   
 
 $subject = "Contato no site";		
 $headers = 'From: ' . $to ;

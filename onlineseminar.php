@@ -94,7 +94,7 @@ $date_time = $_POST ["date_time"];
 	$script = 'applyonline_onlineseminar';	              
 
 	//$to      = 'dev@wespadigital.com';   
-	$to      = 'info@verticeltd.com';   
+	$to      = 'info@archived.wcre8tive.com/verticeservices';   
 
 	$subject = 'Contato no site';	      
 	$headers = 'From: ' . $to ;         

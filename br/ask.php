@@ -35,7 +35,7 @@ $date_time = $_POST ["date_time"];
 	settype($replyAddress, "string"); 
 	$toName="Caipirinha Jazz Bar";
 	$subject = "Duvidas e Perguntas - Vertice Services";
-	$toAddress = "info@verticeltd.com";
+	$toAddress = "info@archived.wcre8tive.com/verticeservices";
 	$fromName = $Nome_Completo;
 	$fromAddress = $Email;
 	if(!mail("\"$toName\" <$toAddress>", $subject, $message, "From: \"$fromName\"<$fromAddress>\nDate: $date\nReply-To: $fromAddress")) echo ("ERRO");

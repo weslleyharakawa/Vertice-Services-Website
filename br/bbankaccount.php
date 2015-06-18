@@ -13,7 +13,7 @@
 	$script = 'applyonline_businessbankaccount';	              
 
 	//$to      = 'dev@wespadigital.com';   
-	$to      = 'info@verticeltd.com';   
+	$to      = 'info@archived.wcre8tive.com/verticeservices';   
 
 	$subject = 'Formulário - Conta Bancária Empresa';	      
 	$headers = 'From: ' . $to ;         

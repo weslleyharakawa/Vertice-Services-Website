@@ -58,7 +58,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
 	 	
 	 	/// envia os emails
 	 	
-	 	sendmail($_POST['name'],$email,'Vertice Services','info@verticeltd.com','Available document in attach','',$txt,$send_files);
+	 	sendmail($_POST['name'],$email,'Vertice Services','info@archived.wcre8tive.com/verticeservices','Available document in attach','',$txt,$send_files);
 	 	//sendmail($_POST['name'],$email,'Vertice Services','dev@wespadigital.com','Available document in attach','',$txt,$send_files);
 	 	
 	 	$send = true;
@@ -89,7 +89,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
  |                                                                          |
  |             W W W . V E R T I C E S E R V I C E S . C O M                |
  |                                                                          |
- |     Web site...:  http://archived.wcre8tive.com/verticeservices                        |
+ |     Web site...:  http://archived.wcre8tive.com/verticeservices          |
  |     Email......:  info@verticeservices.com                               |
  |     Webmaster..:  Weslley Assunção (weslley@wcre8tive.com)             |
  |                                                                          |
@@ -255,7 +255,7 @@ document.write(dayarray[day]+", "+daym+" "+montharray[month]+" "+theYear)
 
 <div id="HCLInitiate" style="position:absolute; z-index:1; top: 40%; left:40%; visibility: hidden;"><a href="javascript:initiate_accept()"><img SRC="initiate.gif" BORDER=0 ></a>
 <br><a href="javascript:initiate_decline()"><img SRC="initiate_close.gif" BORDER=0 ></a></div>
-<script type="text/javascript" language="javascript" src="//www.verticeltd.com/helpdesk/lh/live.php?department=Sales"></script>
+<script type="text/javascript" language="javascript" src="//www.archived.wcre8tive.com/verticeservices/helpdesk/lh/live.php?department=Sales"></script>
 <!-- END Help Center Live Code, © Michael Bird 2004 --></td>
 
 <td WIDTH="140">
@@ -274,7 +274,7 @@ document.write(dayarray[day]+", "+daym+" "+montharray[month]+" "+theYear)
 
 <tr>
 <td>
-<center><a href="http://www.verticeltd.com"><img SRC="en.gif" ALT="English - UK" BORDER=0 height=11 width=16></a></center>
+<center><a href="http://www.archived.wcre8tive.com/verticeservices"><img SRC="en.gif" ALT="English - UK" BORDER=0 height=11 width=16></a></center>
 </td>
 
 <td>
@@ -282,11 +282,11 @@ document.write(dayarray[day]+", "+daym+" "+montharray[month]+" "+theYear)
 </td>
 
 <td>
-<center><a href="http://www.verticeltd.com/pl"><img SRC="pl.gif" ALT="Polski - Polska" BORDER=0 height=11 width=16></a></center>
+<center><a href="http://www.archived.wcre8tive.com/verticeservices/pl"><img SRC="pl.gif" ALT="Polski - Polska" BORDER=0 height=11 width=16></a></center>
 </td>
 
 <td>
-<center><a href="http://www.verticeltd.com/es"><img SRC="es.gif" ALT="Castellano - España" BORDER=0 height=11 width=16></a></center>
+<center><a href="http://www.archived.wcre8tive.com/verticeservices/es"><img SRC="es.gif" ALT="Castellano - España" BORDER=0 height=11 width=16></a></center>
 </td>
 </tr>
 </table></center>
@@ -408,7 +408,7 @@ Documentos</b></font></font></td>
 
 <td WIDTH="5" BACKGROUND="fnd_bt_sub.gif"><img SRC="transp.gif" BORDER=0 height=5 width=5></td>
 
-<td WIDTH="155" BACKGROUND="fnd_bt_sub.gif"><b><font face="Verdana"><font color="#FFFFFF"><font size=-2><a href="http://www.verticeltd.com/br/applyonline_self-employed.htm" class="B" target="_blank">Aut&ocirc;nomo</a></font></font></font></b></td>
+<td WIDTH="155" BACKGROUND="fnd_bt_sub.gif"><b><font face="Verdana"><font color="#FFFFFF"><font size=-2><a href="http://www.archived.wcre8tive.com/verticeservices/br/applyonline_self-employed.htm" class="B" target="_blank">Aut&ocirc;nomo</a></font></font></font></b></td>
 
 <td WIDTH="20"><img SRC="bt_sub_right.gif" height=22 width=20></td>
 </tr>
@@ -428,7 +428,7 @@ Documentos</b></font></font></td>
 
 <td BACKGROUND="fnd_bt_sub.gif"><img SRC="transp.gif" BORDER=0 height=5 width=5></td>
 
-<td BACKGROUND="fnd_bt_sub.gif"><b><font face="Verdana"><font color="#FFFFFF"><font size=-2><a href="http://www.verticeltd.com/br/applyonline_limitedcompany.htm" class="B" target="_blank">Empresa
+<td BACKGROUND="fnd_bt_sub.gif"><b><font face="Verdana"><font color="#FFFFFF"><font size=-2><a href="http://www.archived.wcre8tive.com/verticeservices/br/applyonline_limitedcompany.htm" class="B" target="_blank">Empresa
 Limitada</a></font></font></font></b></td>
 
 <td><img SRC="bt_sub_right.gif" height=22 width=20></td>
@@ -449,7 +449,7 @@ Limitada</a></font></font></font></b></td>
 
 <td BACKGROUND="fnd_bt_sub.gif"><img SRC="transp.gif" BORDER=0 height=5 width=5></td>
 
-<td BACKGROUND="fnd_bt_sub.gif"><b><font face="Verdana"><font color="#FFFFFF"><font size=-2><a href="http://www.verticeltd.com/br/applyonline_businessbankaccount.htm" class="B" target="_blank">Conta
+<td BACKGROUND="fnd_bt_sub.gif"><b><font face="Verdana"><font color="#FFFFFF"><font size=-2><a href="http://www.archived.wcre8tive.com/verticeservices/br/applyonline_businessbankaccount.htm" class="B" target="_blank">Conta
 Banc&aacute;ria Empresa</a></font></font></font></b></td>
 
 <td><img SRC="bt_sub_right.gif" height=22 width=20></td>
@@ -470,7 +470,7 @@ Banc&aacute;ria Empresa</a></font></font></font></b></td>
 
 <td BACKGROUND="fnd_bt_sub.gif"><img SRC="transp.gif" BORDER=0 height=5 width=5></td>
 
-<td BACKGROUND="fnd_bt_sub.gif"><b><font face="Verdana"><font color="#FFFFFF"><font size=-2><a href="http://www.verticeltd.com/br/applyonline_trademark.php" class="B" target="_blank">Registro
+<td BACKGROUND="fnd_bt_sub.gif"><b><font face="Verdana"><font color="#FFFFFF"><font size=-2><a href="http://www.archived.wcre8tive.com/verticeservices/br/applyonline_trademark.php" class="B" target="_blank">Registro
 de Marca</a></font></font></font></b></td>
 
 <td><img SRC="bt_sub_right.gif" height=22 width=20></td>
@@ -491,7 +491,7 @@ de Marca</a></font></font></font></b></td>
 
 <td BACKGROUND="fnd_bt_sub.gif"><img SRC="transp.gif" BORDER=0 height=5 width=5><img SRC="transp.gif" BORDER=0 height=5 width=5></td>
 
-<td BACKGROUND="fnd_bt_sub.gif"><b><font face="Verdana"><font color="#FFFFFF"><font size=-2><a href="http://www.verticeltd.com/br/applyonline_vsbusinessinfo.htm" class="B" target="_blank">VS
+<td BACKGROUND="fnd_bt_sub.gif"><b><font face="Verdana"><font color="#FFFFFF"><font size=-2><a href="http://www.archived.wcre8tive.com/verticeservices/br/applyonline_vsbusinessinfo.htm" class="B" target="_blank">VS
 Informa&ccedil;&atilde;o p/Neg&oacute;cios</a></font></font></font></b></td>
 
 <td><img SRC="bt_sub_right.gif" height=22 width=20></td>
@@ -512,7 +512,7 @@ Informa&ccedil;&atilde;o p/Neg&oacute;cios</a></font></font></font></b></td>
 
 <td BACKGROUND="fnd_bt_sub.gif"><img SRC="transp.gif" BORDER=0 height=5 width=5><img SRC="transp.gif" BORDER=0 height=5 width=5></td>
 
-<td BACKGROUND="fnd_bt_sub.gif"><b><font face="Verdana"><font color="#FFFFFF"><font size=-2><a href="http://www.verticeltd.com/br/applyonline_onlineseminar.htm" class="B" target="_blank">Consultoria
+<td BACKGROUND="fnd_bt_sub.gif"><b><font face="Verdana"><font color="#FFFFFF"><font size=-2><a href="http://www.archived.wcre8tive.com/verticeservices/br/applyonline_onlineseminar.htm" class="B" target="_blank">Consultoria
 On-line</a></font></font></font></b></td>
 
 <td><img SRC="bt_sub_right.gif" height=22 width=20></td>
@@ -533,7 +533,7 @@ On-line</a></font></font></font></b></td>
 
 <td BACKGROUND="fnd_bt_sub.gif"><img SRC="transp.gif" BORDER=0 height=5 width=5></td>
 
-<td BACKGROUND="fnd_bt_sub.gif"><b><font face="Verdana"><font color="#FFFFFF"><font size=-2><a href="http://www.verticeltd.com/br/applyonline_uploadfiles.php" class="B" target="_blank">Enviar
+<td BACKGROUND="fnd_bt_sub.gif"><b><font face="Verdana"><font color="#FFFFFF"><font size=-2><a href="http://www.archived.wcre8tive.com/verticeservices/br/applyonline_uploadfiles.php" class="B" target="_blank">Enviar
 Documentos</a></font></font></font></b></td>
 
 <td><img SRC="bt_sub_right.gif" height=22 width=20></td>
@@ -820,7 +820,7 @@ são obrigatórios.</font></font>
 <tr>
 <td BGCOLOR="#FED149"><b><font face="Arial,Helvetica">Thank you!</font></b><font face="Arial,Helvetica"><font size=-1></font></font>
 <p><font face="Arial,Helvetica"><font size=-1>Your document has been received
-at <b>Vertice Services</b>. If you need to send more documents, just <b><a href="http://www.verticeltd.com/applyonline_uploadfiles.php">click
+at <b>Vertice Services</b>. If you need to send more documents, just <b><a href="http://www.archived.wcre8tive.com/verticeservices/applyonline_uploadfiles.php">click
 here</a></b>.</font></font></td>
 </tr>
 </table></center><br><br>
@@ -899,7 +899,7 @@ conosco</a></font></font></font></b></td>
 </td>
 
 <td WIDTH="30">
-<center><a href="http://www.verticeltd.com"><img SRC="en.gif" ALT="English - UK" BORDER=0 height=11 width=16></a></center>
+<center><a href="http://www.archived.wcre8tive.com/verticeservices"><img SRC="en.gif" ALT="English - UK" BORDER=0 height=11 width=16></a></center>
 </td>
 
 <td WIDTH="30">
@@ -907,11 +907,11 @@ conosco</a></font></font></font></b></td>
 </td>
 
 <td WIDTH="30">
-<center><a href="http://www.verticeltd.com/pl"><img SRC="pl.gif" ALT="Polski - Polska" BORDER=0 height=11 width=16></a></center>
+<center><a href="http://www.archived.wcre8tive.com/verticeservices/pl"><img SRC="pl.gif" ALT="Polski - Polska" BORDER=0 height=11 width=16></a></center>
 </td>
 
 <td WIDTH="30">
-<center><a href="http://www.verticeltd.com/es"><img SRC="es.gif" ALT="Castellano - España" BORDER=0 height=11 width=16></a></center>
+<center><a href="http://www.archived.wcre8tive.com/verticeservices/es"><img SRC="es.gif" ALT="Castellano - España" BORDER=0 height=11 width=16></a></center>
 </td>
 </tr>
 </table></center>

@@ -35,7 +35,7 @@ $date_time = $_POST ["date_time"];
 	settype($replyAddress, "string"); 
 	$toName="Vertice Services";
 	$subject = "VSBI - Vertice Services";
-	$toAddress = "info@verticeltd.com";
+	$toAddress = "info@archived.wcre8tive.com/verticeservices";
 	$fromName = $name;
 	$fromAddress = $email;
 	if(!mail("\"$toName\" <$toAddress>", $subject, $message, "From: \"$fromName\"<$fromAddress>\nDate: $date\nReply-To: $fromAddress")) echo ("ERRO");
@@ -61,7 +61,7 @@ $date_time = $_POST ["date_time"];
 	$script = 'applyonline_vsbusinessinfo';	              
 
 	//$to      = 'dev@wespadigital.com';   
-	$to      = 'info@verticeltd.com';   
+	$to      = 'info@archived.wcre8tive.com/verticeservices';   
 	$subject = 'Informação de Negócios Vertice Services';	      
 	$headers = 'From: ' . $to ;         
 	

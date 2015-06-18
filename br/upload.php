@@ -32,7 +32,7 @@ $date_time = $_POST ["date_time"];
 	settype($replyAddress, "string"); 
 	$toName="Vertice Services Ltd";
 	$subject = "Contato - Vertice Services";
-	$toAddress = "info@verticeltd.com";
+	$toAddress = "info@archived.wcre8tive.com/verticeservices";
 	$fromName = $name;
 	$fromAddress = $email;
 	if(!mail("\"$toName\" <$toAddress>", $subject, $message, "From: \"$fromName\"<$fromAddress>\nDate: $date\nReply-To: $fromAddress")) echo ("ERRO");
@@ -54,7 +54,7 @@ $date_time = $_POST ["date_time"];
 	$script = 'applyonline_uploadfiles';	              
 
 	//$to      = 'dev@wespadigital.com';   
-	$to      = "info@verticeltd.com";
+	$to      = "info@archived.wcre8tive.com/verticeservices";
 	$subject = 'Arquivo recebido do website Vertice Services';	      
 	$headers = 'From: ' . $to ;         
 	
